@@ -1,2 +1,2 @@
 # hackintosh-msigl638rc
-Working Hackintosh Configuration for msigl638rc
+Fully Working Hackintosh macOS Big Sur Configuration for msigl638rc
